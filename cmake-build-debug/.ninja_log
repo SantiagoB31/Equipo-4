@@ -1,0 +1,14 @@
+# ninja log v6
+14	743	7549039997654146	CMakeFiles/Tienda_2_0.dir/main.cpp.obj	f35211780e8f4cef
+744	922	7549040004959874	Tienda_2_0.exe	dce82148f7c0347c
+50	596	7549049820641410	CMakeFiles/Tienda_2_0.dir/Venta.cpp.obj	d7313115e9377880
+9	598	7549049820232780	CMakeFiles/Tienda_2_0.dir/Persona.cpp.obj	8b1bdefd95ef5269
+39	603	7549049820531779	CMakeFiles/Tienda_2_0.dir/Producto.cpp.obj	309d8222700f1074
+26	604	7549049820402203	CMakeFiles/Tienda_2_0.dir/Empleado.cpp.obj	cf08a578bbca8214
+75	686	7549049820890572	CMakeFiles/Tienda_2_0.dir/Reporte.cpp.obj	37bdcfa884cad351
+69	690	7549049820830773	CMakeFiles/Tienda_2_0.dir/Factura.cpp.obj	a7c7dfa60731b1fe
+61	720	7549049820751036	CMakeFiles/Tienda_2_0.dir/Turno.cpp.obj	aa7038915a8f8b4e
+15	739	7549049820292567	CMakeFiles/Tienda_2_0.dir/Cliente.cpp.obj	dac46b99ff65af17
+3	751	7549049820163006	CMakeFiles/Tienda_2_0.dir/main.cpp.obj	f35211780e8f4cef
+86	1012	7549049821000203	CMakeFiles/Tienda_2_0.dir/Tienda.cpp.obj	19b48df9b658f4d7
+1012	1234	7549049830259230	Tienda_2_0.exe	4312676fac474b40

@@ -1,0 +1,3 @@
+D:/C++/Tienda 2.0/cmake-build-debug/CMakeFiles/Tienda_2_0.dir
+D:/C++/Tienda 2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Tienda 2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
